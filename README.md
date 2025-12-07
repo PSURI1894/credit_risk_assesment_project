@@ -12,7 +12,7 @@ The goal is to assist banks and financial institutions in automating credit appr
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [Deployed on Streamlit Cloud](https://share.streamlit.io/) *(add your deployed app link here)*  
+🔗 **Streamlit App:** [Deployed on Streamlit Cloud]  
 🧠 **Model:** Random Forest trained on preprocessed credit application and repayment data.
 
 ---
